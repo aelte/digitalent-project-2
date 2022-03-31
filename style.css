@@ -115,3 +115,9 @@ footer {
 .btn-dark-mode:hover {
 	background-color: #694e4e;
 }
+
+@media (max-width: 670px) {
+	.calculator-wrapper {
+		margin-top: 70px;
+	}
+}
